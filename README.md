@@ -25,7 +25,7 @@ Proje dizininde her bir sınıflandırma algoritması için ayrı betikler oluş
 
 ## Deneysel Sonuçlar
 
-### Veri Artırma Tekniklerinin Çok Katmanlı Algılayıcı Algoritmasına Etkileri
+### Veri Artırma Tekniklerinin Çok Katmanlı Algılayıcı (MLP) Algoritmasına Etkileri
 
 | Algoritma | Genel Doğruluk | Makro F1 Skoru |
 | :--- | :--- | :--- |
@@ -37,7 +37,7 @@ Proje dizininde her bir sınıflandırma algoritması için ayrı betikler oluş
 | SMOTEENN | 0.8231 | 0.48 |
 | SMOTETomek | 0.8383 | 0.53 |
 
-### Veri Artırma Tekniklerinin Rastgele Orman Algoritmasına Etkileri
+### Veri Artırma Tekniklerinin Rastgele Orman (RF) Algoritmasına Etkileri
 
 | Algoritma | Genel Doğruluk | Makro F1 Skoru |
 | :--- | :--- | :--- |
